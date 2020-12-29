@@ -1,0 +1,45 @@
+.score{
+    display: flex;
+    justify-content: flex-end;
+    height: 50px;
+}
+
+.score p {
+    padding: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    color: deepskyblue;
+    font-size: 1.5rem;
+    height: 40px;
+    margin: 10px;
+
+}
+
+h1{
+    font-size: 2rem;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline;
+    color:  deepskyblue;
+    text-decoration-skip: 10px;
+    padding: 5px;
+    margin-top: 30px;
+}
+
+p{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:  deepskyblue;
+    padding: 5px;
+    margin: 40px;
+    font-size: 3.4rem;
+    height: fit-content;
+}
+
+.question-area{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 80px 10px;
+    height: 42vh;
+}
